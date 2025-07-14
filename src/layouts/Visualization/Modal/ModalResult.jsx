@@ -33,7 +33,7 @@ export default function ModalResult({ closeModal }) {
         onClick={e => e.stopPropagation()}
         className="max-w-[400px] rounded p-7 bg-gray-50 mb-[10vh]">
         <div className="flex items-end mb-5">
-          <p>Here is your code 🎉</p>
+          <p>Voici votre code 🎉</p>
           <button 
           onClick={handleCopy}
           className="ml-auto mr-2 text-sm bg-blue-600 text-white hover:bg-blue-700 py-1 px-3 rounded">
