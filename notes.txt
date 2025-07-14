@@ -1,0 +1,7 @@
+Mise en place du header et footer.
+Création du store et des features : shadow et boxProperties et modification du main.
+Création du dossier layouts avec les composants leftContainer, ShadowList et BoxPanel : dans le leftContainer ajouter un state pour les onglets et afficher les 2 composants dans une liste d'objets pour les afficher.
+Dans le dossier BoxPanel creer 2 autre composant un pour les types range et l'autre pour les types color, les integrer dans BoxPanel avec useSelector
+On passe au boxRange en integrant le inputData en params puis en stylysant la barre(input type range) bien anlayser le code.
+Création du bouton et de la fonctionnalite AddShadow
+modification des methode shadow.js puis copier coller les input du jsx de box vers shadow
